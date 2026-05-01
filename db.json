@@ -1,0 +1,127 @@
+{
+    "offer":[
+  {
+    "id": 1,
+    "name": "Classic Black Sunglasses",
+    "brand": "SunShade",
+    "originalPrice": 20,
+    "salePrice": 10,
+    "discount": 50,
+    "rating": 4.7,
+    "stock": 15,
+    "description": "Stylish sunglasses with UV protection.",
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083",
+    "category": "Sunglasses",
+    "isHotSale": true,
+    "tag": "50% OFF"
+  },
+  {
+    "id": 2,
+    "name": "Aviator Sunglasses",
+    "brand": "SkyLook",
+    "originalPrice": 30,
+    "salePrice": 15,
+    "discount": 50,
+    "rating": 4.8,
+    "stock": 10,
+    "description": "Premium aviator sunglasses for summer style.",
+    "image": "https://images.unsplash.com/photo-1509695507497-903c140c43b0",
+    "category": "Sunglasses",
+    "isHotSale": true,
+    "tag": "50% OFF"
+  },
+
+  {
+    "id": 3,
+    "name": "Floral Summer Dress",
+    "brand": "SunStyle",
+    "originalPrice": 40,
+    "salePrice": 20,
+    "discount": 50,
+    "rating": 4.6,
+    "stock": 12,
+    "description": "Light and breezy summer dress.",
+    "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d",
+    "category": "Summer Outfits",
+    "isHotSale": true,
+    "tag": "50% OFF"
+  },
+  {
+    "id": 4,
+    "name": "Cotton T-Shirt",
+    "brand": "UrbanWear",
+    "originalPrice": 20,
+    "salePrice": 10,
+    "discount": 50,
+    "rating": 4.5,
+    "stock": 20,
+    "description": "Comfortable cotton t-shirt for hot days.",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
+    "category": "Summer Outfits",
+    "isHotSale": true,
+    "tag": "50% OFF"
+  },
+
+  {
+    "id": 5,
+    "name": "Vitamin C Serum",
+    "brand": "GlowCare",
+    "originalPrice": 30,
+    "salePrice": 15,
+    "discount": 50,
+    "rating": 4.8,
+    "stock": 18,
+    "description": "Brightens and smoothens skin.",
+    "image": "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19",
+    "category": "Skincare",
+    "isHotSale": true,
+    "tag": "50% OFF"
+  },
+  {
+    "id": 6,
+    "name": "Moisturizing Cream",
+    "brand": "SoftSkin",
+    "originalPrice": 24,
+    "salePrice": 12,
+    "discount": 50,
+    "rating": 4.7,
+    "stock": 22,
+    "description": "Deep hydration for soft skin.",
+    "image": "https://images.unsplash.com/photo-1585386959984-a41552231658",
+    "category": "Skincare",
+    "isHotSale": true,
+    "tag": "50% OFF"
+  },
+
+  {
+    "id": 7,
+    "name": "Beach Hat",
+    "brand": "OceanStyle",
+    "originalPrice": 16,
+    "salePrice": 8,
+    "discount": 50,
+    "rating": 4.6,
+    "stock": 25,
+    "description": "Perfect sun protection hat.",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    "category": "Beach Accessories",
+    "isHotSale": true,
+    "tag": "50% OFF"
+  },
+  {
+    "id": 8,
+    "name": "Beach Tote Bag",
+    "brand": "SeaCarry",
+    "originalPrice": 28,
+    "salePrice": 14,
+    "discount": 50,
+    "rating": 4.7,
+    "stock": 14,
+    "description": "Spacious bag for beach essentials.",
+    "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c",
+    "category": "Beach Accessories",
+    "isHotSale": true,
+    "tag": "50% OFF"
+  }
+]
+}
